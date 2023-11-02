@@ -4,8 +4,6 @@ import ThemeContext from "../context/themeContext";
 export default function AnimeCard({ item }) {
   const theme = useContext(ThemeContext);
 
-  console.log(theme, "<<");
-
   return (
     <div className="card" style={{ width: "18rem" }}>
       <img
@@ -16,7 +14,7 @@ export default function AnimeCard({ item }) {
       <div className="card-body">
         <h5 className="card-title">{item.name}</h5>
         <p className="card-text"></p>
-        <a href="#" className="btn btn-primary">
+        <a href="#" className={theme[theme.currentTheme].buttonTheme}>
           Go somewhere
         </a>
       </div>
