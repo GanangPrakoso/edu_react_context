@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Jujutsu Kaisen",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMwMDM4N2EtOTJiYy00OTQ0LThlZDYtYWUwOWFlY2IxZGVjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hunter x Hunter",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGM0YTk3MWEtN2JlZC00ZmZmLWIwMDktZTMxZGE5Zjc2MGExXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Chainsaw Man",
+    "imageUrl": "https://i.pinimg.com/736x/9f/4e/8c/9f4e8c9e698f21ed53192f4ca9792790.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Berserk",
+    "imageUrl": "https://pbs.twimg.com/media/F4oNG-IXoAAYssX?format=jpg&name=large"
+  },
+  {
+    "id": 5,
+    "name": "Neon Genesis Evangelion",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGRlZTIwZjQtZWU2NC00MDYzLTg0YWUtOGY3YjU4NTUzOTU1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+  }
+]
